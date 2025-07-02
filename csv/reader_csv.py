@@ -31,3 +31,5 @@ with open('dados.csv', 'w') as arquivo:
     #arquivo_csv.writerow(['Esmalte Azul', 'RisquÃ©', 'Azul', 'Glitter', '7.50'])
     arquivo_csv.writerow(["cor \t idade"])
     arquivo_csv.writerow(["corr \t idadee"])
+
+    
